@@ -1,3 +1,7 @@
+
+英文请访问: Please visit [[https://pptsize.com](https://pptsize.com](https://github.com/pptsize-maker/-ppt-compressor/blob/main/en.md))  
+
+
 # 自我介绍 · PPTSize 创作者
 
 大家好，我是 **PPTSize** 的开发者，一个专注于 **高清压缩 PPT（ppt压缩 / 压缩ppt）** 的独立项目。
