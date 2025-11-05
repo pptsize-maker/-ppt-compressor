@@ -1,3 +1,7 @@
+
+For **Chinese** users: Please visit [[https://pptsize.com](https://pptsize.com](https://github.com/pptsize-maker/-ppt-compressor/blob/main/zh.md))  
+
+
 # About Me · Creator of PPTSize
 
 Hi everyone — I’m the developer behind **PPTSize**, an independent project focused on **high-quality PowerPoint compression** — or in other words, **PPT compression / compress PPT / PPT compressor**.
