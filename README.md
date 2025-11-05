@@ -1,4 +1,5 @@
-For **Chinese** users: Please visit [[https://pptsize.com](https://pptsize.com](https://github.com/pptsize-maker/-ppt-compressor/blob/main/zh.md))  
+For **Chinese** users: Please visit [zh](https://github.com/pptsize-maker/-ppt-compressor/blob/main/zh.md)  
+
 
 
 # About Me · Creator of PPTSize
